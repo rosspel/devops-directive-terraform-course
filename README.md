@@ -1,3 +1,4 @@
+# Written Course https://courses.devopsdirective.com/terraform-beginner-to-pro/lessons/00-introduction/01-main
 # DevOps Directive Terraform Course
 
 This is the companion repo to: [Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)](https://www.youtube.com/watch?v=7xngnjfIlK4)
